@@ -1,0 +1,26 @@
+[
+{
+  "model": "Shop.user",
+  "pk": 1,
+  "fields": {
+    "email": "spam@gmail.com",
+    "first_name": "uyjn",
+    "last_name": "ujh8",
+    "phone_number": "",
+    "city": "",
+    "age": "18",
+    "sex": "1"
+  }
+},
+{
+  "model": "Shop.product",
+  "pk": 1,
+  "fields": {
+    "name": "Зубенко Михаил Петрович",
+    "price": 10000.0,
+    "discount": false,
+    "price_discount": 10.0,
+    "type": "0"
+  }
+}
+]
